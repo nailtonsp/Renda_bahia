@@ -1,0 +1,4 @@
+indice da tabela data1
+
+adolecentes_15-17 == % de adolescentes de 15 a 17 anos de idade que tiveram filhos 2016
+meninas_10-14	  == % de meninas de 10 a 14 anos de idade que tiveram filhos 2016

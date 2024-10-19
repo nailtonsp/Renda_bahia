@@ -1,0 +1,6 @@
+require(geoR)
+require(geobr)
+require(dplyr)
+require(readxl)
+require(tidyverse)
+library(tools)
